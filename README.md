@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ethan, undergraduate at William & Mary. 
+- 👋 Hi, I’m Ethan, an undergraduate at William & Mary. 
 - I am not studying computer science; I made @noliaphyta because I wanted a student account.
 - I want to learn python and HTML/CSS/JS and have no idea what Matlab, R, Stata are.
 - I took a course in Java once...
